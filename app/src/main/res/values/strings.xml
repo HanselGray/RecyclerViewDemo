@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="affirmation1">
+        Three Rings for the Elven-kings under the sky,
+        \nSeven for the Dwarf-lords in their halls of stone,
+        \nNine for Mortal Men doomed to die,
+        \nOne for the Dark Lord on his dark throne
+        \nIn the Land of Mordor where the Shadows lie.
+        \nOne Ring to rule them all, One Ring to find them,
+        \nOne Ring to bring them all, and in the darkness bind them
+        \nIn the Land of Mordor where the Shadows lie.</string>
+
+    <string name="affirmation2">
+        All that is gold does not glitter,
+        \nNot all those who wander are lost;
+        \nThe old that is strong does not wither,
+        \nDeep roots are not reached by the frost.
+        \nFrom the ashes a fire shall be woken,
+        \nA light from the shadows shall spring;
+        \nRenewed shall be blade that was broken,
+        \nThe crownless again shall be king.
+    </string>
+
+    <string name="affirmation3">
+        Learn now the lore of Living Creatures!
+        \nFirst name the four, the free peoples:
+        \nEldest of all, the elf-children;
+        \nDwarf the delver, dark are his houses;
+        \nEnt the earthborn, old as mountains;
+        \nMan the mortal, master of horses:
+        \n
+        \nBeaver the builder, buck the leaper,
+        \nBear bee-hunter, boar the fighter;
+        \nHound is hungry, hare is fearful...
+        \n
+        \nEagle in eyrie, ox in pasture,
+        \nHart horn-crownéd; hawk is swiftest,
+        \nSwan the whitest, serpent coldest...
+    </string>
+    <string name="affirmation4">
+        Far over the misty mountains cold
+        \nTo dungeons deep and caverns old
+        \nWe must away ere break of day
+        \nTo seek the pale enchanted gold.
+\n
+        \nThe dwarves of yore made mighty spells,
+        \nWhile hammers fell like ringing bells
+        \nIn places deep, where dark things sleep,
+        \nIn hollow halls beneath the fells.
+
+        \nFor ancient king and elvish lord
+        \nThere many a gleaming golden hoard
+        \nThey shaped and wrought, and light they caught
+        \nTo hide in gems on hilt of sword.
+\n
+        \nOn silver necklaces they strung
+        \nThe flowering stars, on crowns they hung
+        \nThe dragon-fire, in twisted wire
+        \nThey meshed the light of moon and sun.
+        \n
+        \nFar over the misty mountains cold
+        \nTo dungeons deep and caverns old
+        \nWe must away, ere break of day,
+        \nTo claim our long-forgotten gold.
+\n
+        \nGoblets they carved there for themselves
+        \nAnd harps of gold; where no man delves
+        \nThere lay they long, and many a song
+        \nWas sung unheard by men or elves.
+\n
+        \nThe pines were roaring on the height,
+        \nThe winds were moaning in the night.
+        \nThe fire was red, it flaming spread;
+        \nThe trees like torches blazed with light.
+\n
+        \nThe bells were ringing in the dale
+        \nAnd men looked up with faces pale;
+        \nThen dragon’s ire more fierce than fire
+        \nLaid low their towers and houses frail.
+\n
+        \nThe mountain smoked beneath the moon;
+        \nThe dwarves, they heard the tramp of doom.
+        \nThey fled their hall, to dying fall
+        \nBeneath his feet, beneath the moon.
+\n
+        \nFar over the misty mountains grim
+        \nTo dungeons deep and caverns dim
+        \nWe must away, ere break of day,
+        \nTo win our harps and gold from him!
+    </string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+</resources>
